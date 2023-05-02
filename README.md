@@ -2,6 +2,9 @@
 
 A pipeline for counting read depth of targeted genes using python scripts.
 
+### Author
+[Dr. Jose Huget-Tapia](https://github.com/joscarhuguet)
+
 ### Steps in this pipeline
 
 -  Searching database of probe sequences using genome sequence as queries to obtain BED and GFF files. 
@@ -28,6 +31,4 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Sorted BED file from step 4 (sorted.bed).
 - BAM file generated from mapping filtered reads to genome.
 
-### Citing
-The research paper is under review. Please cite this pipeline as zenodo record:
->
+### Citation
