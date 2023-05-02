@@ -1,2 +1,6 @@
-# depthcount
-A pipeline for counting read depth of targeted genes
+# DepthCount
+A pipeline for counting read depth of targeted genes using python scripts.
+
+
+
+
