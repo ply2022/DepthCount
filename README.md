@@ -25,6 +25,7 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - BED file generated from step 1 (bed_output.bed).
 5. read_count_by_gene.py
 - Annotation features of captured genes generated from step 2 (overlapped_gene).
+- Sorted BED file from step 4 (sorted.bed).
 - BAM file generated from mapping filtered reads to genome.
 
 ### Citing
