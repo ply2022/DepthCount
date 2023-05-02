@@ -16,7 +16,7 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Genome sequence (FASTA format).
 2. extract_genes.py
 - BED file generated from step1 (bed_output.bed)
--Genome annotation features (.gff).
+- Genome annotation features (.gff).
 3. extract_seqs.py
 - Annotation features of captured genes generated from step2 (overlapped_gene).
 - Coding sequences (FASTA format).
