@@ -32,3 +32,5 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - BAM file generated from mapping filtered reads to genome.
 
 ### Citation
+A research paper is under peer review.  Please cite the zenodo record:
+>
