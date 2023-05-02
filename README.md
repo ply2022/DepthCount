@@ -27,6 +27,6 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Annotation features of captured genes generated from step2 (overlapped_gene).
 - BAM file generated from mapping filtered reads to genome.
 
-Citing
+### Citing
 The research paper is under review. Please cite this pipeline as zenodo record:
 >
