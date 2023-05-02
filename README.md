@@ -1,4 +1,4 @@
-# readcount
+# enrichcount
 
 A pipeline for counting read depth of targeted genes using python scripts.
 
@@ -30,6 +30,7 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Annotation features of captured genes generated from step 2 (`overlapped_gene`).
 - Sorted BED file from step 4 (`sorted.bed`).
 - BAM file generated from mapping filtered reads to genome.
+- Genome size (bp)
 
 ### Execute the scripts
 Scripts can be executed indivisually, or execute `pipeline_for_enrichment.py` to complete all five steps all at once. 
