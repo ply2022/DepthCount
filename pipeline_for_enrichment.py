@@ -18,4 +18,4 @@ subprocess.call(["python", "extract_overlapping_reads_and_stats.py"])
 
 # Script 5
 print("Running Script 5: calculating read count by gene")
-subprocess.call(["python", "read_count_by_gene.py"])
+subprocess.call(["python", "cal_cov_by_gene.py"])
