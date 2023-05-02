@@ -18,17 +18,17 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Probe sequences (FASTA format).
 - Genome sequence (FASTA format).
 2. `extract_genes.py`
-- BED file generated from step 1 (bed_output.bed)
+- BED file generated from step 1 (`bed_output.bed`)
 - Genome annotation features (.gff).
 3. `extract_seqs.py`
-- Annotation features of captured genes generated from step 2 (overlapped_gene).
+- Annotation features of captured genes generated from step 2 (`overlapped_gene`).
 - Coding sequences (FASTA format).
 4. `extract_overlapping_reads_and_stats.py`
 - BAM file generated from mapping filtered reads to genome.
-- BED file generated from step 1 (bed_output.bed).
+- BED file generated from step 1 (`bed_output.bed`).
 5. `read_count_by_gene.py`
-- Annotation features of captured genes generated from step 2 (overlapped_gene).
-- Sorted BED file from step 4 (sorted.bed).
+- Annotation features of captured genes generated from step 2 (`overlapped_gene`).
+- Sorted BED file from step 4 (`sorted.bed`).
 - BAM file generated from mapping filtered reads to genome.
 
 ### Execute the scripts
