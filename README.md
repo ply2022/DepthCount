@@ -31,6 +31,9 @@ A pipeline for counting read depth of targeted genes using python scripts.
 - Sorted BED file from step 4 (sorted.bed).
 - BAM file generated from mapping filtered reads to genome.
 
+### Execute the scripts
+Scripts can be executed indivisually, or execute `pipeline_for_enrichment.py` to complete all five steps. 
+
 ### Citation
 A research paper is under peer review.  Please cite the zenodo record:
 >
