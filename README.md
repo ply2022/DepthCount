@@ -37,4 +37,4 @@ Scripts can be executed indivisually, or execute `pipeline_for_enrichment.py` to
 
 ### Citation
 A research paper is under peer review.  Please cite the zenodo record:
->
+[![DOI](https://zenodo.org/badge/635480557.svg)](https://zenodo.org/badge/latestdoi/635480557)
